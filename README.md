@@ -23,7 +23,7 @@ Aplicación de escritorio con CRUD completo, interfaz en WinForms, base de datos
 🔹 [Sistema de automatizacion para productos defectuosos en Panafoto](https://github.com/aleantoni/WebApp-SistemaDeProductos)  
 Sistema de registro y verificacion de productos defectuoso de los cliente para el area de taller en Panafoto.
 
-🔹 [Aplicacion web de registro de tareas](https://github.com/aleantoni/WebApp-RegistrodeTareas)  
+🔹 [Aplicacion web de registro de tareas con Pyhton y Django](https://github.com/aleantoni/WebApp-RegistrodeTareas)  
 Aplicacion para registrar tareas y controlar el progreso.
 
 ---
